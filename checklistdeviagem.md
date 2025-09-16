@@ -2,25 +2,33 @@ Cheklist de Viagem - ViajaBem
 
 ## Documentos Essencias
 - [ ] Passaporte/Visto
-- [ ] Cartão de vacinação
+- [X] Cartão de vacinação
 - [ ] Seguro viagem
 - [ ] Reservas de hospedagem
 
 ## Saúde e Medicamentos
 - [ ] Medicamentos pessoais
-- [ ] Kit primeiros socorros
+- [X] Kit primeiros socorros
 - [ ] Protetor solar
 
 ## Vestuário
 - [ ] Roupas por clima
-- [ ] Calçados confortáveis
+- [X] Calçados confortáveis
 - [ ] Roupa de dormir
 - [ ] Acessórios (óculos, chapéu)
 
 ## Tecnologia
 - [ ] Carregadores portáteis
 - [ ] Adaptadores de tomada
-- [ ] Power bank
+- [X] Power bank
 - [ ] Cabos USB
 
 
+## Verificações Finais
+- [ ] Notificar banco sobre viagem
+- [ ] Baixar mapas offline
+- [ ] Confirmar check-in online
+- [X] Checar previsão do tempo
+
+## TUDO PRONTO!
+# Bom embarque e ótima viagem!
